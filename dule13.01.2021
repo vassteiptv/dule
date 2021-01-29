@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="|EXYU| SPORTKLUB HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="Yugoslavija Telekom",|EXYU| SPORTKLUB HD
+#EXTINF:-1 tvg-id="" tvg-name="------|Yugoslavia|------" tvg-logo="" group-title="Yugoslavia TELEKOM",------|Yugoslavia|------
 #EXTINF:-1,EX: HRT 1
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17331
 #EXTINF:-1,EX: HRT 2
