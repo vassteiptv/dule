@@ -1,1091 +1,411 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="------|Yugoslavia|------" tvg-logo="" group-title="Yugoslavia TELEKOM",------|Yugoslavia|------
-#EXTINF:-1,EX-YU: 24 Kitchen
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4126
-#EXTINF:-1,EX-YU 24 Kitchen
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274342
-#EXTINF:-1,EX-YU: 24 Vesti
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/23058
-#EXTINF:-1,EX-YU: 24 Vijesti
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/151608
-#EXTINF:-1,EX-YU: A1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157164
-#EXTINF:-1,EX-YU: A1 Balkan
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/64499
-#EXTINF:-1,EX-YU: AL JAZEERA BALKANS
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/13444
-#EXTINF:-1,EX-YU: Alfa
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/70798
-#EXTINF:-1,EX-YU: ALFA TV MAKEDONIA
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/192247
-#EXTINF:-1,EX-YU: Alfa TV Sarajevo
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197585
-#EXTINF:-1,EX-YU: AMC HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/20166
-#EXTINF:-1,EX-YU: ANIMAL PLANET HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/58934
-#EXTINF:-1,EX-YU ANIMAL PLANET HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273397
-#EXTINF:-1,EX-YU: Arena Sport 1 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3461
-#EXTINF:-1,EX-YU Arena Sport 1 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273358
-#EXTINF:-1,EX-YU: Arena Sport 2 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3462
-#EXTINF:-1,EX-YU Arena Sport 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/37207
-#EXTINF:-1,EX-YU: Arena Sport 3 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/264526
-#EXTINF:-1,EX-YU Arena Sport 3 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273416
-#EXTINF:-1,EX-YU: Arena Sport 4 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3465
-#EXTINF:-1,EX-YU: Arena Sport 5 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3464
-#EXTINF:-1,EX-YU: Arena Sport 6 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/145720
-#EXTINF:-1,EX-YU: ATV HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/20172
-#EXTINF:-1,EX-YU: AXN
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/20174
-#EXTINF:-1,EX-YU: Axn Adria
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/89762
-#EXTINF:-1,EX-YU: AXN Spin
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/247838
-#EXTINF:-1,EX-YU: AXN Spin Adria
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/36885
-#EXTINF:-1,EX-YU: B1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157167
-#EXTINF:-1,EX-YU: B92
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4133
-#EXTINF:-1,EX-YU: B92 O2 TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/148150
-#EXTINF:-1,EX-YU: Baby Tv
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/13472
-#EXTINF:-1,EX-YU Baby Tv
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/50910
-#EXTINF:-1,EX-YU: Balkanika (MUSIC)
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/225475
-#EXTINF:-1,EX-YU Balkanika (MUSIC)
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274861
-#EXTINF:-1,EX-YU: Balkanika HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4135
-#EXTINF:-1,EX-YU: BANOVINA TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197252
-#EXTINF:-1,EX-YU: BBC EARTH HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120719
-#EXTINF:-1,EX-YU BBC EARTH HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273656
-#EXTINF:-1,EX-YU: BBC EEARTH
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/200420
-#EXTINF:-1,EX-YU: BBC Entertainment
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/194816
-#EXTINF:-1,EX-YU: BHT 1 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/64559
-#EXTINF:-1,EX-YU: BHT HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/59805
-#EXTINF:-1,EX-YU: BN 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/265789
-#EXTINF:-1,EX-YU: BN BIH HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/231619
-#EXTINF:-1,EX-YU: BN HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3455
-#EXTINF:-1,EX-YU: BN Music HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4137
-#EXTINF:-1,EX-YU BN Music HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274735
-#EXTINF:-1,EX-YU: BN Sat
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/148207
-#EXTINF:-1,EX-YU: BN Televizija
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/168264
-#EXTINF:-1,EX-YU: Bosna TV 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/145936
-#EXTINF:-1,EX-YU: BRAVO MUSIC
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120735
-#EXTINF:-1,EX-YU BRAVO MUSIC
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274795
-#EXTINF:-1,EX-YU: Cartoon Network
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/145719
-#EXTINF:-1,EX-YU Cartoon Network
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/275753
-#EXTINF:-1,EX-YU: CBS Reality
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/36914
-#EXTINF:-1,EX-YU: Cinemania
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/59873
-#EXTINF:-1,EX-YU: Cinemax 1 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4138
-#EXTINF:-1,EX-YU: Cinemax 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4139
-#EXTINF:-1,EX-YU: Cinemax HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/23064
-#EXTINF:-1,EX-YU: CINESTAR ACTION & THRILLER
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/171933
-#EXTINF:-1,EX-YU: Cinestar Action HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/26785
-#EXTINF:-1,EX-YU: Cinestar Comedy
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/146302
-#EXTINF:-1,EX-YU: Cinestar Fantasy HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/36890
-#EXTINF:-1,EX-YU: CineStar Premier 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/192244
-#EXTINF:-1,EX-YU: CineStar Premier 2
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/192637
-#EXTINF:-1,EX-YU: CineStar TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/193639
-#EXTINF:-1,EX-YU: City TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/145937
-#EXTINF:-1,EX-YU: City TV Mostar HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/198399
-#EXTINF:-1,EX-YU: CMC Music
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/147886
-#EXTINF:-1,EX-YU CMC Music
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274806
-#EXTINF:-1,EX-YU: CMC TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/196378
-#EXTINF:-1,EX-YU: Comedy Central Extra
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/146304
-#EXTINF:-1,EX-YU: Comedy Central HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/163404
-#EXTINF:-1,EX-YU: Crime+ Investigation HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4145
-#EXTINF:-1,EX-YU Crime+ Investigation HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273248
-#EXTINF:-1,EX-YU: CROMAX SELECT GOLD HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/199233
-#EXTINF:-1,EX-YU: CROMAX SELECT PREMIUM HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/199232
-#EXTINF:-1,EX-YU: Da Vinci Learning
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/24073
-#EXTINF:-1,EX-YU: DEUTCHES MUZIK HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120731
-#EXTINF:-1,EX-YU DEUTCHES MUZIK HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274704
-#EXTINF:-1,EX-YU: Discovery Channel HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4146
-#EXTINF:-1,EX-YU Discovery Channel HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273708
-#EXTINF:-1,EX-YU: Discovery CI
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/67542
-#EXTINF:-1,EX-YU Discovery CI
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273793
-#EXTINF:-1,EX-YU: Discovery Science HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4147
-#EXTINF:-1,EX-YU Discovery Science HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273709
-#EXTINF:-1,EX-YU: Discovery Serbia
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/148152
-#EXTINF:-1,EX-YU Discovery Serbia
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273830
-#EXTINF:-1,EX-YU: Disney Channel
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/67539
-#EXTINF:-1,EX-YU Disney Channel
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274579
-#EXTINF:-1,EX-YU: Disney JR
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/225247
-#EXTINF:-1,EX-YU Disney JR
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274616
-#EXTINF:-1,EX-YU: DisneyChannel
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/163408
-#EXTINF:-1,EX-YU DisneyChannel
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274595
-#EXTINF:-1,EX-YU: DIVA HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120591
-#EXTINF:-1,EX-YU: DM SAT
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197254
-#EXTINF:-1,EX-YU: Dobra Makedonska
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/168254
-#EXTINF:-1,EX-YU: Dobra Plus HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/198531
-#EXTINF:-1,EX-YU: Dobra Ruska HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/198530
-#EXTINF:-1,EX-YU: DOCU BOX HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/59863
-#EXTINF:-1,EX-YU: DOKU TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/59864
-#EXTINF:-1,EX-YU: Doma HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3398
-#EXTINF:-1,EX-YU: DUCK TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120717
-#EXTINF:-1,EX-YU: DUGA TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197255
-#EXTINF:-1,EX-YU: E! FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/20195
-#EXTINF:-1,EX-YU E! FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/275208
-#EXTINF:-1,EX-YU: EDO
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/146290
-#EXTINF:-1,EX-YU: EPIC DRAMA
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/24399
-#EXTINF:-1,EX-YU: ERA TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/148154
-#EXTINF:-1,EX-YU: EUROSPORT
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157161
-#EXTINF:-1,EX-YU EUROSPORT
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273632
-#EXTINF:-1,EX-YU: EUROSPORT 1 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4151
-#EXTINF:-1,EX-YU EUROSPORT 1 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273591
-#EXTINF:-1,EX-YU: EUROSPORT 2 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4152
-#EXTINF:-1,EX-YU EUROSPORT 2 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273592
-#EXTINF:-1,EX-YU: Face TV HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/13437
-#EXTINF:-1,EX-YU: Federalna TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10682
-#EXTINF:-1,EX-YU: FEN TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/265804
-#EXTINF:-1,EX-YU: FIGHT BOX FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10683
-#EXTINF:-1,EX-YU FIGHT BOX FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273935
-#EXTINF:-1,EX-YU: FIGHT Channel HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/67561
-#EXTINF:-1,EX-YU: FIGHT Channel World HD (HR)
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/199237
-#EXTINF:-1,EX-YU: FIGHT Club
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157397
-#EXTINF:-1,EX-YU: Film Klub
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/5561
-#EXTINF:-1,EX-YU: FILM Klub Extra
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/198398
-#EXTINF:-1,EX-YU: Filmbox Estra HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/198534
-#EXTINF:-1,EX-YU: FilmBox Extra FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10684
-#EXTINF:-1,EX-YU: FILMBOX FAMILY HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/267115
-#EXTINF:-1,EX-YU: Filmbox HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/196380
-#EXTINF:-1,EX-YU: FilmBOX PLUS
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120691
-#EXTINF:-1,EX-YU: FilmBox Stars HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/265784
-#EXTINF:-1,EX-YU: FINE LIVING NETWORK
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/200419
-#EXTINF:-1,EX-YU: Food Network
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/51895
-#EXTINF:-1,EX-YU: FOOD NEWORK
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197312
-#EXTINF:-1,EX-YU: FOX Crime HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4153
-#EXTINF:-1,EX-YU: FOX HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4156
-#EXTINF:-1,EX-YU: Fox Life HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4154
-#EXTINF:-1,EX-YU Fox Life HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273957
-#EXTINF:-1,EX-YU: FOX Movies HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4155
-#EXTINF:-1,EX-YU: Grand Narodna
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157371
-#EXTINF:-1,EX-YU: Grand TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4158
-#EXTINF:-1,EX-YU: Grand TV 2
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4157
-#EXTINF:-1,EX-YU: GRAND TV Narodna
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/168040
-#EXTINF:-1,EX-YU: H2
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/36895
-#EXTINF:-1,EX-YU: Ha Ha
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/146289
-#EXTINF:-1,EX-YU: Happy Parovi 24/7
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/198640
-#EXTINF:-1,EX-YU: Happy Parovi TV 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3446
-#EXTINF:-1,EX-YU: Happy Parovi TV 2
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3447
-#EXTINF:-1,EX-YU: HAPPY PAROVI UZIVO 24h
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197314
-#EXTINF:-1,EX-YU: Happy TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/192245
-#EXTINF:-1,EX-YU: HAYAT BH
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/264112
-#EXTINF:-1,EX-YU: Hayat BIH
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/148205
-#EXTINF:-1,EX-YU: Hayat Folk HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/70802
-#EXTINF:-1,EX-YU: HAYAT HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10690
-#EXTINF:-1,EX-YU: Hayat Music HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/59903
-#EXTINF:-1,EX-YU Hayat Music HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274774
-#EXTINF:-1,EX-YU: Hayat Plus HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/59802
-#EXTINF:-1,EX-YU: Hayatovci HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10693
-#EXTINF:-1,EX-YU: HBO 1 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/145939
-#EXTINF:-1,EX-YU: HBO 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4161
-#EXTINF:-1,EX-YU: HBO 3 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10696
-#EXTINF:-1,EX-YU: HBO ADRIA
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/35257
-#EXTINF:-1,EX-YU: HBO Comedy
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/148156
-#EXTINF:-1,EX-YU: HBO Cro
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/198022
-#EXTINF:-1,EX-YU: HBO Family
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/199236
-#EXTINF:-1,EX-YU: HBO HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/6826
-#EXTINF:-1,EX-YU: Hbo Slo
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/264132
-#EXTINF:-1,EX-YU: HEMA TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/146282
-#EXTINF:-1,EX-YU: History 2
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/20210
-#EXTINF:-1,EX-YU History 2
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274219
-#EXTINF:-1,EX-YU: History Channel HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4163
-#EXTINF:-1,EX-YU History Channel HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274204
-#EXTINF:-1,EX-YU: History ChannelL
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/225250
-#EXTINF:-1,EX-YU History ChannelL
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274274
-#EXTINF:-1,EX-YU: HIT BRCKO
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/145940
-#EXTINF:-1,EX-YU: HNTV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197256
-#EXTINF:-1,EX-YU: Hobby Lov
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/51897
-#EXTINF:-1,EX-YU: Hram TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/23093
-#EXTINF:-1,EX-YU: HRT 1 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/247835
-#EXTINF:-1,EX-YU: HRT 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/41478
-#EXTINF:-1,EX-YU: HRT 3 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3395
-#EXTINF:-1,EX-YU: HRT 4
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/171921
-#EXTINF:-1,EX-YU: HRT INT
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/264962
-#EXTINF:-1,EX-YU: HRT international
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/16583
-#EXTINF:-1,EX-YU: HTV 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/194806
-#EXTINF:-1,EX-YU: Hugo
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/168261
-#EXTINF:-1,EX-YU: Hugo 1 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/194801
-#EXTINF:-1,EX-YU: Hugo 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157363
-#EXTINF:-1,EX-YU: Hugo 3 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/195735
-#EXTINF:-1,EX-YU: Hugo 4 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/199227
-#EXTINF:-1,EX-YU: IDJ TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/20222
-#EXTINF:-1,EX-YU: Igman TV HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10703
-#EXTINF:-1,EX-YU: IN TV HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/265805
-#EXTINF:-1,EX-YU: INFO
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/171914
-#EXTINF:-1,EX-YU: Investigation Discovery HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10675
-#EXTINF:-1,EX-YU Investigation Discovery HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273750
-#EXTINF:-1,EX-YU: Investigation Discovery Xtra
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157370
-#EXTINF:-1,EX-YU Investigation Discovery Xtra
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273836
-#EXTINF:-1,EX-YU: Istok TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/145942
-#EXTINF:-1,EX-YU: Izvorna TV HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/192823
-#EXTINF:-1,EX-YU: Jabuka TV HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/267714
-#EXTINF:-1,EX-YU: JEFIMIJA TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197317
-#EXTINF:-1,EX-YU: JimJam TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120716
-#EXTINF:-1,EX-YU JimJam TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274414
-#EXTINF:-1,EX-YU: Jugoton TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/20223
-#EXTINF:-1,EX-YU: K3
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/265810
-#EXTINF:-1,EX-YU: KANAL 5 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/23077
-#EXTINF:-1,EX-YU: KANAL 5 Plus MK
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/148155
-#EXTINF:-1,EX-YU: Kanal 6 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/145943
-#EXTINF:-1,EX-YU: KANAL 8
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/265801
-#EXTINF:-1,EX-YU: Kanal 21
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157360
-#EXTINF:-1,EX-YU: KANAL A HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/148157
-#EXTINF:-1,EX-YU: KCN 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4169
-#EXTINF:-1,EX-YU: KCN 2
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4170
-#EXTINF:-1,EX-YU: KCN 3
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4171
-#EXTINF:-1,EX-YU: KIKA
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/200424
-#EXTINF:-1,EX-YU: KINO HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3405
-#EXTINF:-1,EX-YU: Klan Kosova FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/267212
-#EXTINF:-1,EX-YU: Klasik TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/195736
-#EXTINF:-1,EX-YU: KOHA TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/146292
-#EXTINF:-1,EX-YU: KTV KAVADARCI HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/200389
-#EXTINF:-1,EX-YU: LAUDATO TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/146280
-#EXTINF:-1,EX-YU: LIBERTAS TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/145522
-#EXTINF:-1,EX-YU: LIFE TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/13450
-#EXTINF:-1,EX-YU: LOL
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/146287
-#EXTINF:-1,EX-YU: Lov & Ribolov
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/36892
-#EXTINF:-1,EX-YU: LOV I RIBOLOV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/194268
-#EXTINF:-1,EX-YU: M Movies ALL STARS FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/199234
-#EXTINF:-1,EX-YU: M1 Film
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4173
-#EXTINF:-1,EX-YU: M1 FIM
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197311
-#EXTINF:-1,EX-YU: M1 GOLD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120690
-#EXTINF:-1,EX-YU: Max Select 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10706
-#EXTINF:-1,EX-YU: Max Select 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10707
-#EXTINF:-1,EX-YU: Max Select 3 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10708
-#EXTINF:-1,EX-YU: Max Select 4
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/36931
-#EXTINF:-1,EX-YU: Max Select 5
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/36889
-#EXTINF:-1,EX-YU: Max Select 6
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/168279
-#EXTINF:-1,EX-YU: Max Select 7 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10710
-#EXTINF:-1,EX-YU: Max Select 8
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10711
-#EXTINF:-1,EX-YU: MAXCRO SELECT 1 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/39920
-#EXTINF:-1,EX-YU: MAXCRO SELECT 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/34459
-#EXTINF:-1,EX-YU: MaxCro Select 3 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/59891
-#EXTINF:-1,EX-YU: MAXCRO SELECT 4 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120696
-#EXTINF:-1,EX-YU: MaxCro Select 5 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/59880
-#EXTINF:-1,EX-YU: MaxCro Select 6 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/59881
-#EXTINF:-1,EX-YU: MaxCro Select 7 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/59886
-#EXTINF:-1,EX-YU: MaxCro Select 8 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/59890
-#EXTINF:-1,EX-YU: MAXCRO SELECT 9 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120713
-#EXTINF:-1,EX-YU: MAXCRO SELECT 10 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120695
-#EXTINF:-1,EX-YU: MAXCRO SELECT 11 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120700
-#EXTINF:-1,EX-YU: MaxCro Select Kids 1 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/265786
-#EXTINF:-1,EX-YU: MAXCRO SELECT KIDS 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120702
-#EXTINF:-1,EX-YU: MAXCRO SELECT KIDS HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120699
-#EXTINF:-1,EX-YU: Mini Max
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4176
-#EXTINF:-1,EX-YU: Mini tv
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/13474
-#EXTINF:-1,EX-YU: Mini Ultra TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4175
-#EXTINF:-1,EX-YU: Moj Kanal
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157366
-#EXTINF:-1,EX-YU: MOJA TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/146300
-#EXTINF:-1,EX-YU: Moja TV Premijer Liga
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/168060
-#EXTINF:-1,EX-YU: MPT 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/265790
-#EXTINF:-1,EX-YU: MPT 3
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/265793
-#EXTINF:-1,EX-YU: MPT SOBRANISKI KANAL
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/265794
-#EXTINF:-1,EX-YU: MRT 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197257
-#EXTINF:-1,EX-YU: MRT 2
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/146288
-#EXTINF:-1,EX-YU: MTM Skopska
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157362
-#EXTINF:-1,EX-YU: MTV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/196496
-#EXTINF:-1,EX-YU: MTV ADRIA
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120722
-#EXTINF:-1,EX-YU: MTV BASE
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/200421
-#EXTINF:-1,EX-YU MTV BASE
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273990
-#EXTINF:-1,EX-YU: MTV CLASSIC
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/200422
-#EXTINF:-1,EX-YU MTV CLASSIC
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273510
-#EXTINF:-1,EX-YU: MTV DANCE
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/225249
-#EXTINF:-1,EX-YU MTV DANCE
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273949
-#EXTINF:-1,EX-YU: MTV HITS
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120724
-#EXTINF:-1,EX-YU MTV HITS
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274042
-#EXTINF:-1,EX-YU: MTV Igman
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/145945
-#EXTINF:-1,EX-YU: MTV MUSIC
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/200423
-#EXTINF:-1,EX-YU MTV MUSIC
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273564
-#EXTINF:-1,EX-YU: MTV ROCK
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120726
-#EXTINF:-1,EX-YU MTV ROCK
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274069
-#EXTINF:-1,EX-YU: N1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/70804
-#EXTINF:-1,EX-YU: N1 BH
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/151605
-#EXTINF:-1,EX-YU: N1 BIH HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/231616
-#EXTINF:-1,EX-YU: N1 Bosna
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/271815
-#EXTINF:-1,EX-YU: N1 SR HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/231618
-#EXTINF:-1,EX-YU: Narodna Televizija
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/194798
-#EXTINF:-1,EX-YU: NARODNA TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120737
-#EXTINF:-1,EX-YU: NASA TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10715
-#EXTINF:-1,EX-YU: Nasha TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/146296
-#EXTINF:-1,EX-YU: NAT GEO HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4177
-#EXTINF:-1,EX-YU NAT GEO HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274099
-#EXTINF:-1,EX-YU: NAT GEO Wild HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4178
-#EXTINF:-1,EX-YU NAT GEO Wild HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274100
-#EXTINF:-1,EX-YU: Nick Junior
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/13473
-#EXTINF:-1,EX-YU Nick Junior
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274458
-#EXTINF:-1,EX-YU: nickelodeon
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4179
-#EXTINF:-1,EX-YU nickelodeon
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274931
-#EXTINF:-1,EX-YU: NICKLEODEON
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/171938
-#EXTINF:-1,EX-YU NICKLEODEON
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274989
-#EXTINF:-1,EX-YU: Nova BH
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/202102
-#EXTINF:-1,EX-YU: Nova BiH
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/194802
-#EXTINF:-1,EX-YU: NOVA HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3406
-#EXTINF:-1,EX-YU: NOVA M
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/198402
-#EXTINF:-1,EX-YU: NOVA RS
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/26816
-#EXTINF:-1,EX-YU: NOVA SPORT HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/202101
-#EXTINF:-1,EX-YU NOVA SPORT HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273543
-#EXTINF:-1,EX-YU: Novi Pazar
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157365
-#EXTINF:-1,EX-YU: NTV IC
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/198408
-#EXTINF:-1,EX-YU: O KANAL
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157364
-#EXTINF:-1,EX-YU: O2TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10719
-#EXTINF:-1,EX-YU: OBN
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/192246
-#EXTINF:-1,EX-YU: ONE BY 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120732
-#EXTINF:-1,EX-YU: ONE TV HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120747
-#EXTINF:-1,EX-YU: OTV Valentino
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/196355
-#EXTINF:-1,EX-YU: Palma Plus HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4181
-#EXTINF:-1,EX-YU: Palma TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157170
-#EXTINF:-1,EX-YU: Parovi
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/13448
-#EXTINF:-1,EX-YU: PAROVI 24 SATA
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/198396
-#EXTINF:-1,EX-YU: Parovi Live 24/7
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157356
-#EXTINF:-1,EX-YU: Partizan HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/147890
-#EXTINF:-1,EX-YU: Pickbox 1 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/231591
-#EXTINF:-1,EX-YU: PickBox TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120587
-#EXTINF:-1,EX-YU: PIKABOO TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/24381
-#EXTINF:-1,EX-YU: Pink
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/82488
-#EXTINF:-1,EX-YU: Planet Sport 1 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3472
-#EXTINF:-1,EX-YU: Planet Sport 2 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3473
-#EXTINF:-1,EX-YU: Planet Sport 3 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3474
-#EXTINF:-1,EX-YU: Planet Sport 4 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/192879
-#EXTINF:-1,EX-YU: Planet Sport 5
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120753
-#EXTINF:-1,EX-YU: Planet Tv
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/198395
-#EXTINF:-1,EX-YU: Planeta Tv
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/148204
-#EXTINF:-1,EX-YU: PODRINJE
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/198409
-#EXTINF:-1,EX-YU: Poljoprivredna HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/145519
-#EXTINF:-1,EX-YU: Pop Brio
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/145948
-#EXTINF:-1,EX-YU: Pop Kino HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/264133
-#EXTINF:-1,EX-YU: Pop Oto HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/13466
-#EXTINF:-1,EX-YU: POP TV HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/148153
-#EXTINF:-1,EX-YU: POPCORN SELECT 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/171934
-#EXTINF:-1,EX-YU: POPCORN SELECT 2
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/171937
-#EXTINF:-1,EX-YU: POPCORN SELECT 3
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/171936
-#EXTINF:-1,EX-YU: POPCORN SELECT 4
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/199231
-#EXTINF:-1,EX-YU: Posavina TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/148158
-#EXTINF:-1,EX-YU: Prva CG
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/267112
-#EXTINF:-1,EX-YU: Prva Files
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/168249
-#EXTINF:-1,EX-YU: Prva HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/194270
-#EXTINF:-1,EX-YU: Prva Kick
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/196354
-#EXTINF:-1,EX-YU: Prva Life
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/267170
-#EXTINF:-1,EX-YU: PRVA MAX
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197259
-#EXTINF:-1,EX-YU: PRVA PLUS
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197260
-#EXTINF:-1,EX-YU: Prva TV Montenegro
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/267839
-#EXTINF:-1,EX-YU: PRVA World TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/196353
-#EXTINF:-1,EX-YU: Ribolov
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/268089
-#EXTINF:-1,EX-YU: Roma TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10731
-#EXTINF:-1,EX-YU: RT Vojvodina 2
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/168251
-#EXTINF:-1,EX-YU: RTCG 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/13459
-#EXTINF:-1,EX-YU: RTCG 2
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10732
-#EXTINF:-1,EX-YU: RTCG Sat
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10733
-#EXTINF:-1,EX-YU: RTL 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/38968
-#EXTINF:-1,EX-YU: RTL 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/171920
-#EXTINF:-1,EX-YU: RTL Adria HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/202104
-#EXTINF:-1,EX-YU: RTL Crime
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3403
-#EXTINF:-1,EX-YU: RTL HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/13880
-#EXTINF:-1,EX-YU: RTL Kockica
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3402
-#EXTINF:-1,EX-YU: RTL Living HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3401
-#EXTINF:-1,EX-YU: RTL PASSION
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/264964
-#EXTINF:-1,EX-YU: RTL Televizija
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/148206
-#EXTINF:-1,EX-YU: RTRS HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/192248
-#EXTINF:-1,EX-YU: RTRS PLUS
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197261
-#EXTINF:-1,EX-YU: RTS 1 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3448
-#EXTINF:-1,EX-YU: RTS 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3449
-#EXTINF:-1,EX-YU: RTS 3 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3450
-#EXTINF:-1,EX-YU: RTS CBET HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157166
-#EXTINF:-1,EX-YU: RTS Drama HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/171907
-#EXTINF:-1,EX-YU: RTS Kolo
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/168250
-#EXTINF:-1,EX-YU: RTS MUZIKA
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197262
-#EXTINF:-1,EX-YU RTS MUZIKA
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274714
-#EXTINF:-1,EX-YU: RTS SAT HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/147975
-#EXTINF:-1,EX-YU: RTS Satelit HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10739
-#EXTINF:-1,EX-YU: RTS Svet
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/195732
-#EXTINF:-1,EX-YU: RTS Trezor
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/171908
-#EXTINF:-1,EX-YU: RTS Zivot HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197263
-#EXTINF:-1,EX-YU: RTV 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10740
-#EXTINF:-1,EX-YU: RTV 2
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10741
-#EXTINF:-1,EX-YU: RTV BOR
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/198394
-#EXTINF:-1,EX-YU: RTV HB
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/198411
-#EXTINF:-1,EX-YU: RTV Herceg Bosne
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/194817
-#EXTINF:-1,EX-YU: RTV Novi Pazar
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/198393
-#EXTINF:-1,EX-YU: RTV PODRINJE
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197319
-#EXTINF:-1,EX-YU: RTV SLON
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197318
-#EXTINF:-1,EX-YU: RTV SUNCE
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/171923
-#EXTINF:-1,EX-YU: RTV USK
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/146281
-#EXTINF:-1,EX-YU: RTV Vojvodina
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/196352
-#EXTINF:-1,EX-YU: RTV Zenica
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/145951
-#EXTINF:-1,EX-YU: RTVCG 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197583
-#EXTINF:-1,EX-YU: Sandzak TV HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10743
-#EXTINF:-1,EX-YU: SAT TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/171909
-#EXTINF:-1,EX-YU: sci-fi
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4199
-#EXTINF:-1,EX-YU: Sehara HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4212
-#EXTINF:-1,EX-YU: SEVDAH TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197264
-#EXTINF:-1,EX-YU: Shutel
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157359
-#EXTINF:-1,EX-YU: Sitel 2
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/146291
-#EXTINF:-1,EX-YU: Sitel 3
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157165
-#EXTINF:-1,EX-YU: SITEL HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/59828
-#EXTINF:-1,EX-YU: Sitel- Reserve
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157358
-#EXTINF:-1,EX-YU: SK4
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157159
-#EXTINF:-1,EX-YU: Slavonska Televizija
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/168268
-#EXTINF:-1,EX-YU: Slavonska TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/264136
-#EXTINF:-1,EX-YU: Slavonsko Brodska HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/267713
-#EXTINF:-1,EX-YU: Slovenia TV 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/13882
-#EXTINF:-1,EX-YU: Sobraniski Kanal
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/148160
-#EXTINF:-1,EX-YU: Sonce
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/146293
-#EXTINF:-1,EX-YU: SOS
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/148163
-#EXTINF:-1,EX-YU: SOS Kanal
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/27455
-#EXTINF:-1,EX-YU: Sport Klub 1 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3467
-#EXTINF:-1,EX-YU Sport Klub 1 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273491
-#EXTINF:-1,EX-YU: Sport Klub 2 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3468
-#EXTINF:-1,EX-YU Sport Klub 2 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273486
-#EXTINF:-1,EX-YU: Sport Klub 3 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3469
-#EXTINF:-1,EX-YU Sport Klub 3 FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273497
-#EXTINF:-1,EX-YU: Sport Klub 4 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/245135
-#EXTINF:-1,EX-YU: Sport Klub 5 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3470
-#EXTINF:-1,EX-YU: Sport Klub 6 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3471
-#EXTINF:-1,EX-YU: Sport Klub 7
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/146299
-#EXTINF:-1,EX-YU: Sport Klub 8
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/54987
-#EXTINF:-1,EX-YU: Sport Klub Golf HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/59840
-#EXTINF:-1,EX-YU: Sport Klub HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3466
-#EXTINF:-1,EX-YU: SPORT TV 1 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/147977
-#EXTINF:-1,EX-YU: SPORT TV 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/147984
-#EXTINF:-1,EX-YU: SPORT TV 3 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/147982
-#EXTINF:-1,EX-YU: Sportska Televizija
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/192242
-#EXTINF:-1,EX-YU: Sportska TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4206
-#EXTINF:-1,EX-YU: STAR FOLK TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/265803
-#EXTINF:-1,EX-YU: Star TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/171935
-#EXTINF:-1,EX-YU: Studio B
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/59790
-#EXTINF:-1,EX-YU: STV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157169
-#EXTINF:-1,EX-YU: Super Kids HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/231601
-#EXTINF:-1,EX-YU: SuperStar TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/27418
-#EXTINF:-1,EX-YU: Sutel
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/146294
-#EXTINF:-1,EX-YU: Taraf TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/267837
-#EXTINF:-1,EX-YU: TDC HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120694
-#EXTINF:-1,EX-YU: Televizija 5
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/20271
-#EXTINF:-1,EX-YU: Televizija Aurora
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/267111
-#EXTINF:-1,EX-YU: TELMA HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/265797
-#EXTINF:-1,EX-YU: TERA BITOLA HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/265798
-#EXTINF:-1,EX-YU: TK
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197590
-#EXTINF:-1,EX-YU: TK Tuzla
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/148164
-#EXTINF:-1,EX-YU: TLC
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4208
-#EXTINF:-1,EX-YU: TLC Balkans
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/268093
-#EXTINF:-1,EX-YU: TLC Slo HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/231576
-#EXTINF:-1,EX-YU: TNT KIDS
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/145708
-#EXTINF:-1,EX-YU: Tom & Jerry
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/26810
-#EXTINF:-1,EX-YU: TOP Sound
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/145953
-#EXTINF:-1,EX-YU: Travel Channel
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120710
-#EXTINF:-1,EX-YU Travel Channel
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274390
-#EXTINF:-1,EX-YU: Trend TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157149
-#EXTINF:-1,EX-YU: Tring Sport 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/198021
-#EXTINF:-1,EX-YU Tring Sport 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273446
-#EXTINF:-1,EX-YU: Tring Sport 3 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/198020
-#EXTINF:-1,EX-YU Tring Sport 3 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/273371
-#EXTINF:-1,EX-YU: TV 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/24370
-#EXTINF:-1,EX-YU: TV 1 BIH
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/198797
-#EXTINF:-1,EX-YU: TV 3 SLO
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/148162
-#EXTINF:-1,EX-YU: TV 5
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/145954
-#EXTINF:-1,EX-YU: TV 5 Islam
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/148159
-#EXTINF:-1,EX-YU: TV 1000
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4210
-#EXTINF:-1,EX-YU: TV 777
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/151609
-#EXTINF:-1,EX-YU: TV Banovina HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/148167
-#EXTINF:-1,EX-YU: TV Duga
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/146305
-#EXTINF:-1,EX-YU: TV EDO
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/265812
-#EXTINF:-1,EX-YU: TV Glas Drine
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/148165
-#EXTINF:-1,EX-YU: TV Grand HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/231582
-#EXTINF:-1,EX-YU: TV Herceg HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/267711
-#EXTINF:-1,EX-YU: TV Istok
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/171911
-#EXTINF:-1,EX-YU: TV JADRAN
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197320
-#EXTINF:-1,EX-YU: TV KCN 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120681
-#EXTINF:-1,EX-YU: TV KCN Music 2
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120683
-#EXTINF:-1,EX-YU TV KCN Music 2
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274794
-#EXTINF:-1,EX-YU: TV Kladovo
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/171912
-#EXTINF:-1,EX-YU: TV Kumanovo
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/168257
-#EXTINF:-1,EX-YU: TV Nasha
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/145955
-#EXTINF:-1,EX-YU: TV Novi Pazar
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/196350
-#EXTINF:-1,EX-YU: TV Palma Plus Jagodina
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/145957
-#EXTINF:-1,EX-YU: TV Parovi 24/7
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/168252
-#EXTINF:-1,EX-YU: TV PLUS
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157171
-#EXTINF:-1,EX-YU: TV Posavina HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/267710
-#EXTINF:-1,EX-YU: TV SARAJEVO HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197265
-#EXTINF:-1,EX-YU: TV Sehara HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120744
-#EXTINF:-1,EX-YU: TV Slon HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/196351
-#EXTINF:-1,EX-YU: TV Sonce
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/168255
-#EXTINF:-1,EX-YU: TV SVET
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/265811
-#EXTINF:-1,EX-YU: TV Tuzla HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/267709
-#EXTINF:-1,EX-YU: TV USK HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/267708
-#EXTINF:-1,EX-YU: Tv Vijesti
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/13458
-#EXTINF:-1,EX-YU: TV Vinkovacka HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/267706
-#EXTINF:-1,EX-YU: TVCG 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/151607
-#EXTINF:-1,EX-YU: TVCG 2
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/151606
-#EXTINF:-1,EX-YU: TVSA Sarajevo
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/148166
-#EXTINF:-1,EX-YU: TVTK
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/145956
-#EXTINF:-1,EX-YU: Varazdinska TV HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/267712
-#EXTINF:-1,EX-YU: Vavoom
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/20284
-#EXTINF:-1,EX-YU: VH 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120730
-#EXTINF:-1,EX-YU: VH 1 CLASSIC
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/120727
-#EXTINF:-1,EX-YU: Viasat Explore
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4214
-#EXTINF:-1,EX-YU: Viasat Explorer
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10760
-#EXTINF:-1,EX-YU: Viasat History
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4215
-#EXTINF:-1,EX-YU Viasat History
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274205
-#EXTINF:-1,EX-YU: Viasat Nature
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/10761
-#EXTINF:-1,EX-YU: Vojvodina 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4216
-#EXTINF:-1,EX-YU: Vojvodina 2
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/27456
-#EXTINF:-1,EX-YU: WebStar Aksion HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/266664
-#EXTINF:-1,EX-YU: WebStar Auto FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/266674
-#EXTINF:-1,EX-YU: WebStar ChuChu TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/266679
-#EXTINF:-1,EX-YU: WebStar Cinema HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/266666
-#EXTINF:-1,EX-YU: WebStar Film 1 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/266668
-#EXTINF:-1,EX-YU: WebStar Humor HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/266673
-#EXTINF:-1,EX-YU: WebStar Islam 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/266678
-#EXTINF:-1,EX-YU: WebStar Komedi HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/266665
-#EXTINF:-1,EX-YU: WebStar Masha Orso
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/266680
-#EXTINF:-1,EX-YU: WebStar Music CH HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/266671
-#EXTINF:-1,EX-YU WebStar Music CH HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274870
-#EXTINF:-1,EX-YU: WebStar Muzik HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/266669
-#EXTINF:-1,EX-YU WebStar Muzik HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/274721
-#EXTINF:-1,EX-YU: WebStar Natyr FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/266675
-#EXTINF:-1,EX-YU: WebStar Popullore HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/266670
-#EXTINF:-1,EX-YU: WebStar Qifteli HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/266672
-#EXTINF:-1,EX-YU: WebStar Relax FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/266676
-#EXTINF:-1,EX-YU: WebStar Thriller HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/266667
-#EXTINF:-1,EX-YU: WOMAN TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/145709
-#EXTINF:-1,EX-YU: YU PLANET TV
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/24924
-#EXTINF:-1,EX-YU: Z1 TV HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3458
-#EXTINF:-1,EX-YU: ZADRUGA 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/59817
-#EXTINF:-1,EX-YU: Zadruga 1 Live
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157353
-#EXTINF:-1,EX-YU: Zadruga 2
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/59821
-#EXTINF:-1,EX-YU: Zadruga 2 Live
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157354
-#EXTINF:-1,EX-YU: Zadruga 3
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/59818
-#EXTINF:-1,EX-YU: Zadruga 4
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/171924
-#EXTINF:-1,EX-YU: ZADRUGA LIVE
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197313
-#EXTINF:-1,EX-YU: Zadruga Live 3
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/194799
-#EXTINF:-1,EX-YU: Zadruga Live 4
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/157355
-#EXTINF:-1,EX-YU: Zadruga Uživo 1
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3410
-#EXTINF:-1,EX-YU: Zadruga Uživo 2
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3411
-#EXTINF:-1,EX-YU: Zadruga Uživo 3
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/3412
-#EXTINF:-1,EX-YU: Zadruga Uživo 4
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/80321
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="### (BIH) BOSNIA ###" tvg-logo="http://107.152.105.108:81/Logo/BOUSNIA/BOSNIAFLAG.png" group-title="EXYU| BOSNIA",### (BIH) BOSNIA ###
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9616
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) CORONA VIRUS INFO" tvg-logo="http://107.152.105.108:81/Logo/CANADAENGLISH/CORONAVIRUSINFO.png" group-title="EXYU| BOSNIA",(BIH) CORONA VIRUS INFO
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9615
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) BHT HD" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/BHTHD.png" group-title="EXYU| BOSNIA",(BIH) BHT HD
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9614
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) BHT" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/BHTHD.png" group-title="EXYU| BOSNIA",(BIH) BHT
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9613
+#EXTINF:-1 tvg-id="ftv.ba" tvg-name="(BIH) FTV" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/FTV.png" group-title="EXYU| BOSNIA",(BIH) FTV
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9612
+#EXTINF:-1 tvg-id="hayat.ba" tvg-name="(BIH) HAYAT HD" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/HAYATHD.png" group-title="EXYU| BOSNIA",(BIH) HAYAT HD
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9611
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) HAYAT BIH" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/HAYATHD.png" group-title="EXYU| BOSNIA",(BIH) HAYAT BIH
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9610
+#EXTINF:-1 tvg-id="hayatplus.ba" tvg-name="(BIH) HAYAT PLUS" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/HAYATPLUS.png" group-title="EXYU| BOSNIA",(BIH) HAYAT PLUS
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9609
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) NOVA BH HD" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/NOVABHHD.png" group-title="EXYU| BOSNIA",(BIH) NOVA BH HD
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9608
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) NOVA BH" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/NOVABHHD.png" group-title="EXYU| BOSNIA",(BIH) NOVA BH
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9607
+#EXTINF:-1 tvg-id="facetv.ba" tvg-name="(BIH) FACE TV HD" tvg-logo="http://107.152.105.108:81/Logo/BOUSNIA/FACETVhd.png" group-title="EXYU| BOSNIA",(BIH) FACE TV HD
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9606
+#EXTINF:-1 tvg-id="facetv.ba" tvg-name="(BIH) FACE TV" tvg-logo="http://107.152.105.108:81/Logo/BOUSNIA/FACETVhd.png" group-title="EXYU| BOSNIA",(BIH) FACE TV
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9605
+#EXTINF:-1 tvg-id="aljazeerabalkans.ba" tvg-name="(BIH) AL JAZEERA BALKAN HD" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/ALJAZEERABALKANHD.png" group-title="EXYU| BOSNIA",(BIH) AL JAZEERA BALKAN HD
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9604
+#EXTINF:-1 tvg-id="aljazeerabalkans.ba" tvg-name="(BIH) AL JAZEERA BALKAN" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/ALJAZEERABALKANHD.png" group-title="EXYU| BOSNIA",(BIH) AL JAZEERA BALKAN
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9603
+#EXTINF:-1 tvg-id="obn.ba" tvg-name="(BIH) OBN" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/OBNBIH.png" group-title="EXYU| BOSNIA",(BIH) OBN
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9601
+#EXTINF:-1 tvg-id="n1.ba" tvg-name="(BIH) N1 BOSNA" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/N1BOSNA.png" group-title="EXYU| BOSNIA",(BIH) N1 BOSNA
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9600
+#EXTINF:-1 tvg-id="BN.bn" tvg-name="(BIH) BN BIH" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/BNBIH.png" group-title="EXYU| BOSNIA",(BIH) BN BIH
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9599
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) BN SAT HD" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/BNSATHD.png" group-title="EXYU| BOSNIA",(BIH) BN SAT HD
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9598
+#EXTINF:-1 tvg-id="rtrsplus.ba" tvg-name="(BIH) RTRS PLUS" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/RTRSPLUS.png" group-title="EXYU| BOSNIA",(BIH) RTRS PLUS
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9597
+#EXTINF:-1 tvg-id="rtrs.ba" tvg-name="(BIH) RTRS" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/RTRSPLUS.png" group-title="EXYU| BOSNIA",(BIH) RTRS
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9596
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) ALTERNATIVNA TV" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/ALTERNATIVNATV.png" group-title="EXYU| BOSNIA",(BIH) ALTERNATIVNA TV
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9595
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) TV ZENICA" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/TVZENICA.png" group-title="EXYU| BOSNIA",(BIH) TV ZENICA
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9594
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) TV USK" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/TVUSK.png" group-title="EXYU| BOSNIA",(BIH) TV USK
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9593
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) RTV CAZIN" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/RTVCAZIN.png" group-title="EXYU| BOSNIA",(BIH) RTV CAZIN
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9592
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) RTV KRAJINA" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/RTVKRAJINA.png" group-title="EXYU| BOSNIA",(BIH) RTV KRAJINA
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9591
+#EXTINF:-1 tvg-id="tvkiss.ba" tvg-name="(BIH) TK TV" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/TKTV.png" group-title="EXYU| BOSNIA",(BIH) TK TV
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9590
+#EXTINF:-1 tvg-id="tv1.ba" tvg-name="(BIH) TV 1" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/TV1.png" group-title="EXYU| BOSNIA",(BIH) TV 1
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9589
+#EXTINF:-1 tvg-id="tvsarajevo.ba" tvg-name="(BIH) TV SARAJEVO" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/TVSARAJEVO.png" group-title="EXYU| BOSNIA",(BIH) TV SARAJEVO
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9588
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) TV KAKANJ" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/TVKAKANJ.png" group-title="EXYU| BOSNIA",(BIH) TV KAKANJ
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9587
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) TELEVIZIJA 5" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/TELEVIZIJA5.png" group-title="EXYU| BOSNIA",(BIH) TELEVIZIJA 5
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9586
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) RTV ROMA" tvg-logo="http://107.152.105.108:81/Logo/BOUSNIA/RTVROMA.png" group-title="EXYU| BOSNIA",(BIH) RTV ROMA
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/103580
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) RTV VISOKO" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/RTVVISOKO.png" group-title="EXYU| BOSNIA",(BIH) RTV VISOKO
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9585
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) RTV SLON" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/RTVSLON.png" group-title="EXYU| BOSNIA",(BIH) RTV SLON
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9584
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) RTV BUGOJNO" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/RTVBUGOJNO.png" group-title="EXYU| BOSNIA",(BIH) RTV BUGOJNO
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9583
+#EXTINF:-1 tvg-id="otvvalentino.ba" tvg-name="(BIH) OTV VALENTINO" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/OTVVALENTINO.png" group-title="EXYU| BOSNIA",(BIH) OTV VALENTINO
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9582
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) MTV IGMAN" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/MTVIGMAN.png" group-title="EXYU| BOSNIA",(BIH) MTV IGMAN
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9581
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) K 3 PRNJAVOR" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/K3PRNJAVOR.png" group-title="EXYU| BOSNIA",(BIH) K 3 PRNJAVOR
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9580
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) HIT BRCKO" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/HITBRCKO.png" group-title="EXYU| BOSNIA",(BIH) HIT BRCKO
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9579
+#EXTINF:-1 tvg-id="posavinatv.ba" tvg-name="(BIH) POSAVINA TV" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/POSAVINATV.png" group-title="EXYU| BOSNIA",(BIH) POSAVINA TV
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9578
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) B1 GRADACAC" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/B1GRADACAC.png" group-title="EXYU| BOSNIA",(BIH) B1 GRADACAC
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9577
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) ALFA TV SARAJEVO" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/ALFATVSARAJEVO.png" group-title="EXYU| BOSNIA",(BIH) ALFA TV SARAJEVO
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9576
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(BIH) BIR TV" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/BIRTV.png" group-title="EXYU| BOSNIA",(BIH) BIR TV
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/9575
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="### (SRB) SRBIA ###" tvg-logo="http://107.152.105.108:81/Logo/SERBIA/serbiaflag.png" group-title="EXYU| SERBIA",### (SRB) SRBIA ###
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4359
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) RTS SVET" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTSSVET.png" group-title="EXYU| SERBIA",(SRB) RTS SVET
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4358
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) RTS 1 FHD" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTS1.png" group-title="EXYU| SERBIA",(SRB) RTS 1 FHD
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4357
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) RTS 1" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTS1.png" group-title="EXYU| SERBIA",(SRB) RTS 1
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4356
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) RTS 2" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTS2.png" group-title="EXYU| SERBIA",(SRB) RTS 2
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4355
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) RTS 3" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTS3.png" group-title="EXYU| SERBIA",(SRB) RTS 3
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4354
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) PRVA HD" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/PRVAHD.png" group-title="EXYU| SERBIA",(SRB) PRVA HD
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4353
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) PRVA" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/PRVAHD.png" group-title="EXYU| SERBIA",(SRB) PRVA
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4352
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) PRVA PLUS" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/PRVAPLUS.png" group-title="EXYU| SERBIA",(SRB) PRVA PLUS
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4351
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) PRVA WORLD" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/PRVAWORLD.png" group-title="EXYU| SERBIA",(SRB) PRVA WORLD
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4350
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) PRVA MAX" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/PRVAMAX.png" group-title="EXYU| SERBIA",(SRB) PRVA MAX
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4349
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) 02 TV" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/02TV.png" group-title="EXYU| SERBIA",(SRB) 02 TV
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4348
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) PRVA KICK" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/PRVAKICK.png" group-title="EXYU| SERBIA",(SRB) PRVA KICK
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4347
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) PRVA FILES TEST" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/PRVAFILESTEST.png" group-title="EXYU| SERBIA",(SRB) PRVA FILES TEST
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4346
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) N1 SRBIJA" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/N1SRBIJA.png" group-title="EXYU| SERBIA",(SRB) N1 SRBIJA
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4345
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) HAPPY TV" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/HAPPYTV.png" group-title="EXYU| SERBIA",(SRB) HAPPY TV
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4344
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) HAPPY TV PAROVI LIVE" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/HAPPYTVPAROVILIVE.png" group-title="EXYU| SERBIA",(SRB) HAPPY TV PAROVI LIVE
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4343
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) ZADRUGA UZIVO 1" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/ZADRUGAUZIVO1.png" group-title="EXYU| SERBIA",(SRB) ZADRUGA UZIVO 1
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4342
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) ZADRUGA UZIVO 2" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/ZADRUGAUZIVO2.png" group-title="EXYU| SERBIA",(SRB) ZADRUGA UZIVO 2
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4341
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) ZADRUGA UZIVO 3" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/ZADRUGAUZIVO3.png" group-title="EXYU| SERBIA",(SRB) ZADRUGA UZIVO 3
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4340
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) ZADRUGA UZIVO 4" tvg-logo="http://107.152.105.108:81/Logo/SERBIA/ZADRUGAUZIVO.png" group-title="EXYU| SERBIA",(SRB) ZADRUGA UZIVO 4
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/98651
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) NOVA S" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/NOVAS.png" group-title="EXYU| SERBIA",(SRB) NOVA S
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4339
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) RTS ZIVOT" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTSZIVOT.png" group-title="EXYU| SERBIA",(SRB) RTS ZIVOT
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4338
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) RTS TREZOR" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTSTREZOR.png" group-title="EXYU| SERBIA",(SRB) RTS TREZOR
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4337
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) RTS MUZIKA" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTSMUZIKA.png" group-title="EXYU| SERBIA",(SRB) RTS MUZIKA
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4336
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) RTS KOLO" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTSKOLO.png" group-title="EXYU| SERBIA",(SRB) RTS KOLO
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4335
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) RTS DRAMA" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTSDRAMA.png" group-title="EXYU| SERBIA",(SRB) RTS DRAMA
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4334
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) RTS POLETARAC" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTSPOLETARAC.png" group-title="EXYU| SERBIA",(SRB) RTS POLETARAC
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4333
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) SANDZAK TV" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/SANDZAKTV.png" group-title="EXYU| SERBIA",(SRB) SANDZAK TV
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4332
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) SANDZACKA TV MREZA" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/SANDZACKATVMREZA.png" group-title="EXYU| SERBIA",(SRB) SANDZACKA TV MREZA
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4331
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) NOVI PAZAR" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/NOVIPAZAR.png" group-title="EXYU| SERBIA",(SRB) NOVI PAZAR
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4330
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) MLAVA TV" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/MLAVATV.png" group-title="EXYU| SERBIA",(SRB) MLAVA TV
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4329
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) BELLE AMIE" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/BELLEAMIE.png" group-title="EXYU| SERBIA",(SRB) BELLE AMIE
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4328
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) NOVA M" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/NOVAM.png" group-title="EXYU| SERBIA",(SRB) NOVA M
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4327
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) KCN 2" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/KCN2.png" group-title="EXYU| SERBIA",(SRB) KCN 2
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4326
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) KCN 1" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/KCN1.png" group-title="EXYU| SERBIA",(SRB) KCN 1
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4325
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRB) PALMA PLUS" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/PALMAPLUS.png" group-title="EXYU| SERBIA",(SRB) PALMA PLUS
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4324
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SRS) RTK" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTK.png" group-title="EXYU| SERBIA",(SRS) RTK
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/4323
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="### (SL) SLOVENJA ###" tvg-logo="http://107.152.105.108:81/Logo/SLOVENIA/sloveniaflag.png" group-title="EXYU| SLOVENIA",### (SL) SLOVENJA ###
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10142
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) CORONA VIRUS INFO" tvg-logo="http://107.152.105.108:81/Logo/CANADAENGLISH/CORONAVIRUSINFO.png" group-title="EXYU| SLOVENIA",(SL) CORONA VIRUS INFO
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10141
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) SLOV1 HD" tvg-logo="http://107.152.105.108:81/Logo/SLOVENIA/SLOV1HDTV.png" group-title="EXYU| SLOVENIA",(SL) SLOV1 HD
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/93261
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) SLOV2 HD" tvg-logo="http://107.152.105.108:81/Logo/SLOVENIA/SLOV2HDTV.png" group-title="EXYU| SLOVENIA",(SL) SLOV2 HD
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/93260
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) SLOV3" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/SLOV3.png" group-title="EXYU| SLOVENIA",(SL) SLOV3
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10138
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) BOOMERANG" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/BOOMERANG.png" group-title="EXYU| SLOVENIA",(SL) BOOMERANG
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10129
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL)  AL JAZEERA BALKANS" tvg-logo="" group-title="EXYU| SLOVENIA",(SL)  AL JAZEERA BALKANS
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/125484
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) AXN" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/AXN.png" group-title="EXYU| SLOVENIA",(SL) AXN
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10128
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) BRIOSLO" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/BRIOSLO.png" group-title="EXYU| SLOVENIA",(SL) BRIOSLO
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10125
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) KANAL A" tvg-logo="http://107.152.105.108:81/Logo/SLOVENIA/kanalA.png" group-title="EXYU| SLOVENIA",(SL) KANAL A
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/93262
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) CINESTAR" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/CINESTAR.png" group-title="EXYU| SLOVENIA",(SL) CINESTAR
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10120
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL)  TV VESELJAK" tvg-logo="" group-title="EXYU| SLOVENIA",(SL)  TV VESELJAK
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/125483
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) DISCOVERY CHANNEL" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/DISCOVERYCHANNEL.png" group-title="EXYU| SLOVENIA",(SL) DISCOVERY CHANNEL
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10114
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) ANIMAL" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/ANIMALPLANET.png" group-title="EXYU| SLOVENIA",(SL) ANIMAL
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10113
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) DIVA" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/DIVA.png" group-title="EXYU| SLOVENIA",(SL) DIVA
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10112
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) POPTV" tvg-logo="http://107.152.105.108:81/Logo/SLOVENIA/poptv.png" group-title="EXYU| SLOVENIA",(SL) POPTV
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/93263
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) FASHION TV" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/FASHION.png" group-title="EXYU| SLOVENIA",(SL) FASHION TV
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10107
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) GOLICA" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/GOLICA.png" group-title="EXYU| SLOVENIA",(SL) GOLICA
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10099
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) NET TV" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/NETTV.png" group-title="EXYU| SLOVENIA",(SL) NET TV
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10093
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) TRAVEL HD" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/TRAVELHD.png" group-title="EXYU| SLOVENIA",(SL) TRAVEL HD
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10083
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) TV3MSLO" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/TV3MSLO.png" group-title="EXYU| SLOVENIA",(SL) TV3MSLO
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10082
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) VESELJAK" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/VESELJAK.png" group-title="EXYU| SLOVENIA",(SL) VESELJAK
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10081
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) TV3" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/TV3.png" group-title="EXYU| SLOVENIA",(SL) TV3
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31188
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) PLANET EARTH" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/PLANETEARTH.png" group-title="EXYU| SLOVENIA",(SL) PLANET EARTH
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31222
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL)  CINESTAR FAMILY" tvg-logo="" group-title="EXYU| SLOVENIA",(SL)  CINESTAR FAMILY
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/125482
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) WOMAN" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/WOMAN.png" group-title="EXYU| SLOVENIA",(SL) WOMAN
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31220
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) VIASAT HISTORY" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/VIASATHISTORY.png" group-title="EXYU| SLOVENIA",(SL) VIASAT HISTORY
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31217
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) VIASAT EXPLORE" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/VIASATEXPLORE.png" group-title="EXYU| SLOVENIA",(SL) VIASAT EXPLORE
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31216
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) VH1 CLASSIC" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/VH1CLASSIC.png" group-title="EXYU| SLOVENIA",(SL) VH1 CLASSIC
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31215
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) VH 1" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/VH1.png" group-title="EXYU| SLOVENIA",(SL) VH 1
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31214
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) NATIONAL GEOGRAPHIC" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/NATIONALGEOGRAPHIC.png" group-title="EXYU| SLOVENIA",(SL) NATIONAL GEOGRAPHIC
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31209
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) MINIMAX" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/MINIMAX.png" group-title="EXYU| SLOVENIA",(SL) MINIMAX
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31207
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) NOVA24TV" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/NOVA24TV.png" group-title="EXYU| SLOVENIA",(SL) NOVA24TV
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31202
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) NICKELODEON" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/NICKELODEON.png" group-title="EXYU| SLOVENIA",(SL) NICKELODEON
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31201
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) NGC WILD" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/NGCWILD.png" group-title="EXYU| SLOVENIA",(SL) NGC WILD
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31199
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) BABY TV" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/BABYTV.png" group-title="EXYU| SLOVENIA",(SL) BABY TV
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31196
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) AXN SPIN" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/AXNSPIN.png" group-title="EXYU| SLOVENIA",(SL) AXN SPIN
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31195
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) ANIMAL PLANET" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/ANIMALPLANET.png" group-title="EXYU| SLOVENIA",(SL) ANIMAL PLANET
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31193
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) AMC" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/AMC.png" group-title="EXYU| SLOVENIA",(SL) AMC
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31192
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) 24 KITCHEN" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/24KITCHEN.png" group-title="EXYU| SLOVENIA",(SL) 24 KITCHEN
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31189
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) HISTORY CHANNEL" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/HISTORYCHANNEL.png" group-title="EXYU| SLOVENIA",(SL) HISTORY CHANNEL
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31264
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) EUROCHANNEL" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/EUROCHANNEL.png" group-title="EXYU| SLOVENIA",(SL) EUROCHANNEL
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31256
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) DR. FIT" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/DR.FIT.png" group-title="EXYU| SLOVENIA",(SL) DR. FIT
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31254
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) DISCOVERY ID Xtra" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/DISCOVERYIDXtra.png" group-title="EXYU| SLOVENIA",(SL) DISCOVERY ID Xtra
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31252
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) DaVinci Learning" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/DaVinciLearning.png" group-title="EXYU| SLOVENIA",(SL) DaVinci Learning
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31251
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) TELE M" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/TELEM.png" group-title="EXYU| SLOVENIA",(SL) TELE M
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31245
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) CBS REALITY" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/CBSREALITY.png" group-title="EXYU| SLOVENIA",(SL) CBS REALITY
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31241
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) CARTOON NETWORK" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/CARTOONNETWORK.png" group-title="EXYU| SLOVENIA",(SL) CARTOON NETWORK
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31240
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) ARENA SPORTS 2" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/ARENASPORTS2.png" group-title="EXYU| SLOVENIA",(SL) ARENA SPORTS 2
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31237
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(SL) ARENA SPORTS 1" tvg-logo="HTTP://107.152.105.108:81/Logo/SLOVENIA/LOGO/ARENASPORTS1.png" group-title="EXYU| SLOVENIA",(SL) ARENA SPORTS 1
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31236
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="### (MK) MAKEDONIA ###" tvg-logo="http://107.152.105.108:81/Logo/makedonia/macedoniaflag.png" group-title="EXYU| MAKEDONIA",### (MK) MAKEDONIA ###
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10933
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) CORONA VIRUS INFO" tvg-logo="http://107.152.105.108:81/Logo/CANADAENGLISH/CORONAVIRUSINFO.png" group-title="EXYU| MAKEDONIA",(MK) CORONA VIRUS INFO
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10932
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) MRT 1" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/MRT1.png" group-title="EXYU| MAKEDONIA",(MK) MRT 1
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10931
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) MRT 2" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/MRT2.png" group-title="EXYU| MAKEDONIA",(MK) MRT 2
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10930
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) MRT SOBRANISKI" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/MRTSOBRANISKI.png" group-title="EXYU| MAKEDONIA",(MK) MRT SOBRANISKI
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10929
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) 24 VESTI" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/24VESTI.png" group-title="EXYU| MAKEDONIA",(MK) 24 VESTI
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10928
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) ALFA" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/ALFA.png" group-title="EXYU| MAKEDONIA",(MK) ALFA
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10927
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) ALSAT M" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/ALSATM.png" group-title="EXYU| MAKEDONIA",(MK) ALSAT M
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10926
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) BBC EARTH" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/BBCEARTH.png" group-title="EXYU| MAKEDONIA",(MK) BBC EARTH
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10925
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) RTL TELEVIZIJA" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/RTLTELEVIZIJA.png" group-title="EXYU| MAKEDONIA",(MK) RTL TELEVIZIJA
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10924
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) RTL KOCKICA" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/RTLKOCKICA.png" group-title="EXYU| MAKEDONIA",(MK) RTL KOCKICA
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10923
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) RTL LIVING" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/RTLLIVING.png" group-title="EXYU| MAKEDONIA",(MK) RTL LIVING
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10922
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) FILM BOX_ARTHOUSE" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/FILMBOXARTHOUSE.png" group-title="EXYU| MAKEDONIA",(MK) FILM BOX_ARTHOUSE
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10921
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) FILM BOX_PLUS" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/FILMBOXPLUS.png" group-title="EXYU| MAKEDONIA",(MK) FILM BOX_PLUS
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10920
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) CINESTAR ACTION AND THRILLER" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/CINESTARACTIONANDTHRILLER.png" group-title="EXYU| MAKEDONIA",(MK) CINESTAR ACTION AND THRILLER
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10919
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) CINESTAR TV" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/CINESTARTV.png" group-title="EXYU| MAKEDONIA",(MK) CINESTAR TV
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10918
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) GRAND TV" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/GRANDTV.png" group-title="EXYU| MAKEDONIA",(MK) GRAND TV
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10917
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) JUGOTON" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/JUGOTON.png" group-title="EXYU| MAKEDONIA",(MK) JUGOTON
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10916
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) KANAL 5" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/KANAL5.png" group-title="EXYU| MAKEDONIA",(MK) KANAL 5
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10915
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) KISS" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/KISS.png" group-title="EXYU| MAKEDONIA",(MK) KISS
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10914
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) MAGIC" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/MAGIC.png" group-title="EXYU| MAKEDONIA",(MK) MAGIC
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10913
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) SITEL" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/SITEL.png" group-title="EXYU| MAKEDONIA",(MK) SITEL
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10912
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) SK 1" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/SK1.png" group-title="EXYU| MAKEDONIA",(MK) SK 1
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10911
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) SK 2" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/SK2.png" group-title="EXYU| MAKEDONIA",(MK) SK 2
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10910
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) SK 3" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/SK3.png" group-title="EXYU| MAKEDONIA",(MK) SK 3
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10909
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) SK 4" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/SK4.png" group-title="EXYU| MAKEDONIA",(MK) SK 4
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10908
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) TELMA" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/TELMA.png" group-title="EXYU| MAKEDONIA",(MK) TELMA
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10907
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) TV 1" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/TV1.png" group-title="EXYU| MAKEDONIA",(MK) TV 1
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10906
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) TV 1000" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/TV1000.png" group-title="EXYU| MAKEDONIA",(MK) TV 1000
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10905
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) TV 21" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/TV21.png" group-title="EXYU| MAKEDONIA",(MK) TV 21
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10904
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) TV SHENJA" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/TVSHENJA.png" group-title="EXYU| MAKEDONIA",(MK) TV SHENJA
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10903
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) VIASAT EXPLORE" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/VIASATEXPLORE.png" group-title="EXYU| MAKEDONIA",(MK) VIASAT EXPLORE
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10902
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) VIASAT NATURE" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/VIASATNATURE.png" group-title="EXYU| MAKEDONIA",(MK) VIASAT NATURE
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10900
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) VIASAT HISTORY" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/VIASATHISTORY.png" group-title="EXYU| MAKEDONIA",(MK) VIASAT HISTORY
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10901
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) RTL 2" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/RTL2.png" group-title="EXYU| MAKEDONIA",(MK) RTL 2
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31283
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(MK) FIGHT CHANNEL" tvg-logo="HTTP://107.152.105.108:81/Logo/makedonia/LOGO/FIGHTCHANNEL.png" group-title="EXYU| MAKEDONIA",(MK) FIGHT CHANNEL
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/31282
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="### (HR) CROATIA ###" tvg-logo="http://107.152.105.108:81/Logo/CROITIA/croatiaflag.png" group-title="EXYU| CROATIA",### (HR) CROATIA ###
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10703
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(HR) HRT 1" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/HRT1.png" group-title="EXYU| CROATIA",(HR) HRT 1
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10702
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(HR) HRT 1 HD" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/HRT1.png" group-title="EXYU| CROATIA",(HR) HRT 1 HD
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10701
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(HR) HRT 2" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/HRT2.png" group-title="EXYU| CROATIA",(HR) HRT 2
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10700
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(HR) HRT 2 HD" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/HRT2.png" group-title="EXYU| CROATIA",(HR) HRT 2 HD
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10699
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(HR) HRT 3" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/HRT3.png" group-title="EXYU| CROATIA",(HR) HRT 3
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10698
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(HR) HRT 3 HD" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/HRT3.png" group-title="EXYU| CROATIA",(HR) HRT 3 HD
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10697
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(HR) HRT 4" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/HRT4.png" group-title="EXYU| CROATIA",(HR) HRT 4
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10696
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(HR) HRT 4 HD" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/HRT4.png" group-title="EXYU| CROATIA",(HR) HRT 4 HD
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10695
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(HR) HRT 5" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/HRT5.png" group-title="EXYU| CROATIA",(HR) HRT 5
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10694
+#EXTINF:-1 tvg-id="novatv.hr" tvg-name="(HR) NOVA TV HD" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/NOVATVHD.png" group-title="EXYU| CROATIA",(HR) NOVA TV HD
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10693
+#EXTINF:-1 tvg-id="novatv.hr" tvg-name="(HR) NOVA TV" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/NOVATVHD.png" group-title="EXYU| CROATIA",(HR) NOVA TV
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10692
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(HR) DOMA TV HD" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/DOMATVHD.png" group-title="EXYU| CROATIA",(HR) DOMA TV HD
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10691
+#EXTINF:-1 tvg-id="domatv.hr" tvg-name="(HR) DOMA TV" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/DOMATVHD.png" group-title="EXYU| CROATIA",(HR) DOMA TV
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10690
+#EXTINF:-1 tvg-id="rtl.hr" tvg-name="(HR) RTL HR" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/RTLHR.png" group-title="EXYU| CROATIA",(HR) RTL HR
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10689
+#EXTINF:-1 tvg-id="rtl2.hr" tvg-name="(HR) RTL 2" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/RTL2.png" group-title="EXYU| CROATIA",(HR) RTL 2
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10688
+#EXTINF:-1 tvg-id="rtlcrime.hr" tvg-name="(HR) RTL CRIME" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/RTLCRIME.png" group-title="EXYU| CROATIA",(HR) RTL CRIME
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10687
+#EXTINF:-1 tvg-id="rtlliving.hr" tvg-name="(HR) RTL LIVING" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/RTLLIVING.png" group-title="EXYU| CROATIA",(HR) RTL LIVING
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10686
+#EXTINF:-1 tvg-id="rtlpassion.hr" tvg-name="(HR) RTL PASSION" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/RTLPASSION.png" group-title="EXYU| CROATIA",(HR) RTL PASSION
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10685
+#EXTINF:-1 tvg-id="n1.hr" tvg-name="(HR) N1 HR" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/N1HR.png" group-title="EXYU| CROATIA",(HR) N1 HR
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10684
+#EXTINF:-1 tvg-id="osjeckatv.hr" tvg-name="(HR) OSJECKA TV" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/OSJECKATV.png" group-title="EXYU| CROATIA",(HR) OSJECKA TV
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10683
+#EXTINF:-1 tvg-id="vinkovackatv.hr" tvg-name="(HR) VINKOVACKA TV" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/VINKOVACKATV.png" group-title="EXYU| CROATIA",(HR) VINKOVACKA TV
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10682
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(HR) TV BANOVINA" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/TVBANOVINA.png" group-title="EXYU| CROATIA",(HR) TV BANOVINA
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10681
+#EXTINF:-1 tvg-id="z1.hr" tvg-name="(HR) Z 1" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/Z1.png" group-title="EXYU| CROATIA",(HR) Z 1
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10680
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(HR) LAUDATO TV" tvg-logo="HTTP://107.152.105.108:81/Logo/CROITIA/LOGO/LAUDATOTV.png" group-title="EXYU| CROATIA",(HR) LAUDATO TV
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/10679
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="### (ME) MONTENEGRO ###" tvg-logo="http://107.152.105.108:81/Logo/MONTENEGRO/montenegroflag.png" group-title="EXYU| MONTENEGRO",### (ME) MONTENEGRO ###
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/11044
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(ME) RTV CG 1" tvg-logo="HTTP://107.152.105.108:81/Logo/MONTENEGRO/LOGO/RTVCG1.png" group-title="EXYU| MONTENEGRO",(ME) RTV CG 1
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/11043
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(ME) RTV CG 2" tvg-logo="HTTP://107.152.105.108:81/Logo/MONTENEGRO/LOGO/RTVCG2.png" group-title="EXYU| MONTENEGRO",(ME) RTV CG 2
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/11042
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(ME) RTV CG SAT" tvg-logo="HTTP://107.152.105.108:81/Logo/MONTENEGRO/LOGO/RTVCGSAT.png" group-title="EXYU| MONTENEGRO",(ME) RTV CG SAT
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/11041
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(ME) NOVA M" tvg-logo="HTTP://107.152.105.108:81/Logo/MONTENEGRO/LOGO/NOVAM.png" group-title="EXYU| MONTENEGRO",(ME) NOVA M
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/11040
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(ME) A1" tvg-logo="HTTP://107.152.105.108:81/Logo/MONTENEGRO/LOGO/A1.png" group-title="EXYU| MONTENEGRO",(ME) A1
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/11039
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(ME) PRVA CG" tvg-logo="HTTP://107.152.105.108:81/Logo/MONTENEGRO/LOGO/PRVACG.png" group-title="EXYU| MONTENEGRO",(ME) PRVA CG
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/11038
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(ME) HAPPY CG" tvg-logo="HTTP://107.152.105.108:81/Logo/MONTENEGRO/LOGO/HAPPYCG.png" group-title="EXYU| MONTENEGRO",(ME) HAPPY CG
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/11037
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(ME) TV 777 PODGORICA" tvg-logo="HTTP://107.152.105.108:81/Logo/MONTENEGRO/LOGO/TV777PODGORICA.png" group-title="EXYU| MONTENEGRO",(ME) TV 777 PODGORICA
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/11036
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(ME) I PINK MEDIA M" tvg-logo="HTTP://107.152.105.108:81/Logo/MONTENEGRO/LOGO/IPINKMEDIAM.png" group-title="EXYU| MONTENEGRO",(ME) I PINK MEDIA M
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/11035
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(ME) VIJESTI" tvg-logo="HTTP://107.152.105.108:81/Logo/MONTENEGRO/LOGO/VIJESTI.png" group-title="EXYU| MONTENEGRO",(ME) VIJESTI
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/11034
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(ME) BOIN TV" tvg-logo="HTTP://107.152.105.108:81/Logo/MONTENEGRO/LOGO/BOINTV.png" group-title="EXYU| MONTENEGRO",(ME) BOIN TV
+http://line.crystalott.net:80/SVND7SLEFK/LPVPKU0PIN/11033
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Nacionalni & lokalni -------" tvg-logo="" group-title="Makedonija",------- Nacionalni & lokalni -------
 http://mytv.fun:8080/kemal100/fkcjkrj77/683224
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MRT 1 HD MK" tvg-logo="http://pici.life/MK/MRT1.png" group-title="Makedonija",MRT 1 HD MK
